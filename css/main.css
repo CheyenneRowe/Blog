@@ -18,7 +18,7 @@ color: grey;
 nav ul{
 	list-style: none;
 	margin: 0px;
-	float: right;
+	/*float: right;*/
 }
 #banner h1{
 	padding-top: 5px;
@@ -36,7 +36,7 @@ nav ul li{
 }
 nav a{
 	text-decoration: none;
-	line-height: inherit;/* 这个不用设置吧O.O */
+	/*line-height: inherit;/* 这个不用设置吧O.O */
 
 	display: inline-block;
 	/* width: 100px; *//* 可以设置宽度 */
